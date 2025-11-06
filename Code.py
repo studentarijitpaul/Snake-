@@ -166,3 +166,4 @@ while True:
     time.sleep(delay)
 
 wn.mainloop()
+print("you win the game “)
